@@ -1,0 +1,33 @@
+{
+  "id": "recruiting-analyst",
+  "name": "Recruiting Analyst",
+  "summary": "The ask is sports recruiting research: programs, rosters, requirements, timelines, contacts or what a player needs to do next",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "recruiting-analyst",
+    "writes": false,
+    "stages": [
+      "audit",
+      "develop"
+    ],
+    "when": "the ask is sports recruiting research: programs, rosters, requirements, timelines, contacts or what a player needs to do next",
+    "tags": [
+      "research",
+      "web",
+      "sports",
+      "recruiting"
+    ],
+    "web": true,
+    "placeholders": [
+      "files"
+    ]
+  }
+}

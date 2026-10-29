@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-recruiting-analyst",
+  "version": "0.1.0",
+  "description": "The Recruiting Analyst role (`recruiting-analyst`) as a RasaOS role module. The ask is sports recruiting research: programs, rosters, requirements, timelines, contacts or what a player needs to do next"
+}
